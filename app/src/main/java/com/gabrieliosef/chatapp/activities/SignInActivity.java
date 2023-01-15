@@ -1,12 +1,12 @@
-package com.example.chatapp.activities;
+package com.gabrieliosef.chatapp.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.example.chatapp.R;
-import com.example.chatapp.databinding.ActivitySignInBinding;
+import com.gabrieliosef.chatapp.R;
+import com.gabrieliosef.chatapp.databinding.ActivitySignInBinding;
 
 public class SignInActivity extends AppCompatActivity {
 
