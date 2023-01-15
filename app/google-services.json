@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342152303003",
+    "project_id": "chat-app-db808",
+    "storage_bucket": "chat-app-db808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342152303003:android:3f3d831251a0d62df8913e",
+        "android_client_info": {
+          "package_name": "com.gabrieliosef.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342152303003-n0nmuuh7l77rq2kegugs6n8kuu27ikah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3XD7hk6k8nzKFT9E4P9o3VKzLuj8mP-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342152303003-n0nmuuh7l77rq2kegugs6n8kuu27ikah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
