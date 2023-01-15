@@ -1,8 +1,10 @@
-package com.gabrieliosef.chatapp;
+package com.gabrieliosef.chatapp.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.gabrieliosef.chatapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
