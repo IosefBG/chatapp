@@ -28,6 +28,8 @@
 
         <activity android:name=".activities.MainActivity" />
 
+        <activity android:name=".activities.UsersActivity" />
+
         <service
             android:name=".firebase.MessagingService"
             android:exported="false">
